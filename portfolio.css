@@ -61,6 +61,7 @@ p {
 
 .content-container {
   padding: 80px 20px;
+  overflow-x: hidden;
 }
 
 .content h1 {
