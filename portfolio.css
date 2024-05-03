@@ -205,4 +205,8 @@ footer .social-links a:hover {
     padding: 0;
     text-align: center;
   }
+
+  footer .email-link {
+    font-size: 16px;
+  }
 }
